@@ -175,6 +175,12 @@ section {
   height: 400px;
   width: 400px;
   margin: auto 0;
+  
+}
+
+.section__pic-container:hover {
+  transform: scale(1.04);
+  transition: transform 0.5s;
 }
 
 .section__text {
